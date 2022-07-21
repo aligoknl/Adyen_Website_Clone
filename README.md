@@ -1,7 +1,7 @@
 # Adyen_Website_Clone
 
 ## 1. Link 
-Project link is available at [Adyen Website Clone App](https://aligoknl.github.io/Adyen_Website_Clone/index.html)
+Project link is available at [Adyen Website Clone](https://aligoknl.github.io/Adyen_Website_Clone/index.html)
 
 ## 2. Description
 [Adyen](https://www.adyen.com/?utm_source=Google&utm_medium=Online%20Advertising&utm_campaign=2022.00-SEA-NL-Brand_Exact&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2FohmgPv7I28UcVKjwGiUylJJbwI7YJUGtxZj9A5WQcvSbrZ97VF2caAlqDEALw_wcB) is a Dutch payment company that allows businesses to accept e-commerce, mobile, and point-of-sale payments. I cloned same pages of the Adyen website to show my HTML and CSS skills in Module 1.   
